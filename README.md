@@ -7,4 +7,4 @@ Il secondo codice implementa un programma che simula un semaforo, facendogli cam
 ## Terzo codice: Semaforo con pulsante
 Il terzo codice è la stessa cosa del secondo, ma funziona solo se il pulsante è in posizione di HIGH
 ## Quarto codice: Incrocio
-Il quarto codice è praticamente il secondo ma fatto proposto per 4 volte nella breadboard
+Il quarto codice è praticamente il secondo ma fatto per 4 volte nella breadboard
