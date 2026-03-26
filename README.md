@@ -1,10 +1,10 @@
 # Codici-Arduino
 Questa repository contiene i 4 codici che il docente ci ha commissionato in classe su Arduino (Tinkercad)
-##Primo codice: LED Lampeggiante
+## Primo codice: LED Lampeggiante
 Il primo codice implementa un programma in c++ per Arduino che fa lampeggiare un led ogni 1000ms
-##Secondo codice: Semaforo
+## Secondo codice: Semaforo
 Il secondo codice implementa un programma che simula un semaforo, facendogli cambiare colore ogni 1000ms
-##Terzo codice: Semaforo con pulsante
+## Terzo codice: Semaforo con pulsante
 Il terzo codice è la stessa cosa del secondo, ma funziona solo se il pulsante è in posizione di HIGH
-##Quarto codice: Incrocio
+## Quarto codice: Incrocio
 Il quarto codice è praticamente il secondo ma fatto proposto per 4 volte nella breadboard
