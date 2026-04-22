@@ -9,3 +9,4 @@ Il terzo codice è la stessa cosa del secondo, ma funziona solo se il pulsante �
 ## Quarto codice: Incrocio
 Il quarto codice è praticamente il secondo ma fatto per 4 volte nella breadboard
 <img width="1408" height="808" alt="image" src="https://github.com/user-attachments/assets/817384a6-a853-46dd-9ea7-e3c9fb1b1bee" />
+PROVA COMMIT
